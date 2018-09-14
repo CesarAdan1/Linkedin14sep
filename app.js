@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 3000;
  *
  * [1] Control the connection string in a `process.env` variable
  */
-const MONGODB_URI = process.env.MONGODB_URI || `mongodb://localhost:27017/${ process.env.MONGODB_DATABASE }`;
+const MONGODB_URI = process.env.                             || `mongodb://localhost:27017/${ process.env.MONGODB_DATABASE }`;
 
 /**
  * [1.1] Mongoose Connect
