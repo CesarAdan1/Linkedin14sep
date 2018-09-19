@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/CesarAdan1/Linkedin14sep#readme",
   "dependencies": {
+    "bcrypt": "^3.0.0",
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.2.14",
     "morgan": "^1.9.1",
     "pug": "^2.0.3"
